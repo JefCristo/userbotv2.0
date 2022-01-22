@@ -26,43 +26,27 @@
 ------------
 <h3> Dєρℓογ το нєяοκυ </h3>
 
-## U Can Click Below Without Fork If Eror Then Go To Down One Deploy To Heroku
+## U Can Click Below Without Fork 
 
 <a href="https://heroku.com/deploy/" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" src="https://github.com/JefCristo/userbotv2.0" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
 </a>
 
-- First Fork This Repo
-
-- Change Name Of Repo
-
-- Click Below Deploy To Heroku
 
 
-- [![Deploy](https://telegra.ph/file/1ded5ead2f8cc5828897a.jpg)](https://heroku.com/deploy/)
+
+
+
+
+
+
 
 ## Deploy Locally
 
 - Clone the repo. 
 
-`git clone https://github.com/The-LegendBot/LEGENDUSERBOT.git`
+`git clone https://github.com/JefCristo/userbotv2.0.git`
 - Open Cloned Folder.
 
-`cd LEGENDUSERBOT`
-- Create VirtualEnv.
-
-`virtualenv -p /usr/bin/python3 venv`
-
-`. ./venv/bin/activate`
-- Install Requirements.
-
-`pip install -U -r requirements.txt`
-- Generate Legend STRING.
-
-`python LegendString.py`
-- Create config.py or rename exampleconfig.py to config.py. Fill All The Required Variables.
-- Finally Start LegendBot By Vps
-
-`bash ./LEGENDBOT/start.sh`
 
 ---------
 
@@ -121,15 +105,6 @@
 - Forking Repo is fine. But if you edit something we will not provide any help.
 - In short, Fork At Your Own Risk.
 
-<details>
-
-  <summary> • LICENSE • </summary>
-
-![](https://www.gnu.org/graphics/gplv3-or-later.png)
-
-LEGEND-OS
-
-Poject [LEGENDBOT](https://github.com/LEGEND-OS/LEGENDBOT) is free software: you can redistribute it and/or modify
 
 it under the terms of the GNU General Public License as published by
 
